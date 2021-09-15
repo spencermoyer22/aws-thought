@@ -5,7 +5,7 @@
   "main": "create-bucket.js",
   "scripts": {
     "start": "node server.js",
-    "watch": "nodemon",
+    "watch": "nodemon server.js",
     "seed": "node config/seeds.js"
   },
   "keywords": [],
